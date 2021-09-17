@@ -104,6 +104,9 @@
 		<Unit filename="/Users/alexandru.mor/Developer/GitHub/CPP/RayTracing/main.cc">
 			<Option target="RayTracing"/>
 		</Unit>
+		<Unit filename="/Users/alexandru.mor/Developer/GitHub/CPP/RayTracing/material.h">
+			<Option target="RayTracing"/>
+		</Unit>
 		<Unit filename="/Users/alexandru.mor/Developer/GitHub/CPP/RayTracing/sphere.h">
 			<Option target="RayTracing"/>
 		</Unit>

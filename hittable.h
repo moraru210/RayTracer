@@ -2,14 +2,17 @@
 // Created by Alexandru Moraru on 15/09/2021.
 //
 
-#ifndef HITTABLE_H_
-#define HITTABLE_H_
+#ifndef HITTABLE_H
+#define HITTABLE_H
 
-#include "common/ray.h"
+#include "common/constants.h"
+
+class material;
 
 struct hit_record {
   point3 p;
   vec3 normal;
+  shared_ptr<material> mat_ptr;
   double t;
   bool front_face;
 

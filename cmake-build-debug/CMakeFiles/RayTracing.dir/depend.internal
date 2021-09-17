@@ -10,4 +10,5 @@ CMakeFiles/RayTracing.dir/main.cc.o
  /Users/alexandru.mor/Developer/GitHub/CPP/RayTracing/hittable.h
  /Users/alexandru.mor/Developer/GitHub/CPP/RayTracing/hittable_list.h
  /Users/alexandru.mor/Developer/GitHub/CPP/RayTracing/main.cc
+ /Users/alexandru.mor/Developer/GitHub/CPP/RayTracing/material.h
  /Users/alexandru.mor/Developer/GitHub/CPP/RayTracing/sphere.h

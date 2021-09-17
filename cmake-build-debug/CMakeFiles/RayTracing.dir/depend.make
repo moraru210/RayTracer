@@ -9,5 +9,6 @@ CMakeFiles/RayTracing.dir/main.cc.o: ../common/vec3.h
 CMakeFiles/RayTracing.dir/main.cc.o: ../hittable.h
 CMakeFiles/RayTracing.dir/main.cc.o: ../hittable_list.h
 CMakeFiles/RayTracing.dir/main.cc.o: ../main.cc
+CMakeFiles/RayTracing.dir/main.cc.o: ../material.h
 CMakeFiles/RayTracing.dir/main.cc.o: ../sphere.h
 

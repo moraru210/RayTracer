@@ -41,8 +41,8 @@ iostream
 -
 
 /Users/alexandru.mor/Developer/GitHub/CPP/RayTracing/hittable.h
-common/ray.h
-/Users/alexandru.mor/Developer/GitHub/CPP/RayTracing/common/ray.h
+common/constants.h
+/Users/alexandru.mor/Developer/GitHub/CPP/RayTracing/common/constants.h
 
 /Users/alexandru.mor/Developer/GitHub/CPP/RayTracing/hittable_list.h
 hittable.h
@@ -63,12 +63,18 @@ hittable_list.h
 /Users/alexandru.mor/Developer/GitHub/CPP/RayTracing/hittable_list.h
 sphere.h
 /Users/alexandru.mor/Developer/GitHub/CPP/RayTracing/sphere.h
+material.h
+/Users/alexandru.mor/Developer/GitHub/CPP/RayTracing/material.h
 iostream
 -
+
+/Users/alexandru.mor/Developer/GitHub/CPP/RayTracing/material.h
+common/constants.h
+/Users/alexandru.mor/Developer/GitHub/CPP/RayTracing/common/constants.h
 
 /Users/alexandru.mor/Developer/GitHub/CPP/RayTracing/sphere.h
 hittable.h
 /Users/alexandru.mor/Developer/GitHub/CPP/RayTracing/hittable.h
-common/vec3.h
-/Users/alexandru.mor/Developer/GitHub/CPP/RayTracing/common/vec3.h
+common/constants.h
+/Users/alexandru.mor/Developer/GitHub/CPP/RayTracing/common/constants.h
 
